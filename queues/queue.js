@@ -31,22 +31,22 @@ function createQueue() {
 
 const q = createQueue()
 
-console.log(q.length) // 0
-console.log(q.isEmpty()) // true
+// console.log(q.length) // 0
+// console.log(q.isEmpty()) // true
 
 q.enqueue('Make an egghead lesson')
 q.enqueue('Help others learn')
 q.enqueue('Be happy')
 
-console.log(q.peek()) // Make an egghead lesson
+// console.log(q.peek()) // Make an egghead lesson
 
 q.dequeue()
-console.log(q.peek()) // Help others learn
+// console.log(q.peek()) // Help others learn
 
 q.dequeue()
-console.log(q.peek()) // Be happy
+// console.log(q.peek()) // Be happy
 
-console.log(q.length) // 1
+// console.log(q.length) // 1
 
 exports.createQueue = createQueue
 
