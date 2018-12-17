@@ -1,3 +1,5 @@
+// Priority Queue Data Structure (FIFO with priority items FO)
+
 const { createQueue } = require('./queue')
 
 function createPriorityQueue() {

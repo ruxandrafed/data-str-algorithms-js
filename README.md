@@ -5,4 +5,5 @@ Notes/code from [egghead.io course](https://egghead.io/courses/data-structures-a
 ## Contents
 
 1. [Queue](queues/queue.js)
-1. [Priotity Queue](queues/priorityQueue.js)
+1. [Priority Queue](queues/priorityQueue.js)
+1. [Stack](stacks/stack.js)
