@@ -7,3 +7,4 @@ Notes/code from [egghead.io course](https://egghead.io/courses/data-structures-a
 1. [Queue](queues/queue.js)
 1. [Priority Queue](queues/priorityQueue.js)
 1. [Stack](stacks/stack.js)
+1. [Linked List](lists/linkedList.js)
